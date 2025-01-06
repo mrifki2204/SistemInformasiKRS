@@ -51,7 +51,7 @@ git clone https://github.com/username/SistemInformasiKRS.git
 
 2. Import database
 ```sql
-mysql -u username -p database_name < database.sql
+krs.sql
 ```
 
 3. Konfigurasi koneksi database
